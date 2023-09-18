@@ -1,7 +1,7 @@
 # PurwadhikaCapstoneModule1
 
 ## Introduction
-Welcome to the Bioskop XXXI Program! This simple Python program allows you to manage a list of movies in a cinema. You can perform various actions such as viewing the list of movies, adding new movies, updating movie information, and deleting movies.
+This simple Python program allows you to manage a list of movies in a cinema. You can perform various actions such as viewing the list of movies, adding new movies, updating movie information, and deleting movies.
 
 ## Program Menu
 The program offers the following menu options:
